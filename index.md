@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/GongHualun/gonghualun.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+######姓名：巩华伦
+######性别：男
+######学历：本科
+######学校：石家庄铁道大学
+######民族：汉
+######政治面貌：共青团员
+######邮箱：3427356624@qq.com
+######联系电话：15176112315
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 院系专业
 
-### Markdown
+######学院（系）：信息科学与技术学院
+######专业及方向：软件工程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 奖罚情况
 
-```markdown
-Syntax highlighted code block
+######普通话水平二级乙等
 
-# Header 1
-## Header 2
-### Header 3
+## 在校期间参加社会工作情况
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GongHualun/gonghualun.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+######调研家乡改革开放前后的变化
+######参加互联网+大赛
+######去西柏坡参观学习
+######去新开普电子股份有限公司参观学习
